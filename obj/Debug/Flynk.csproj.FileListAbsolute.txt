@@ -1,0 +1,16 @@
+D:\Adobe\Comp 1\VS Saves\Flynk\bin\Debug\Flynk.exe.config
+D:\Adobe\Comp 1\VS Saves\Flynk\bin\Debug\Flynk.exe
+D:\Adobe\Comp 1\VS Saves\Flynk\bin\Debug\Flynk.pdb
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk.Properties.Resources.resources
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk.csproj.GenerateResource.cache
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk.Form2.resources
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk.Form3.resources
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk.Flynk.resources
+D:\Adobe\Comp 1\VS Saves\Flynk\Released Vers\Flynk(Beta).exe.config
+D:\Adobe\Comp 1\VS Saves\Flynk\Released Vers\Flynk(Beta).exe
+D:\Adobe\Comp 1\VS Saves\Flynk\Released Vers\Flynk(Beta).pdb
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk(Beta).exe
+D:\Adobe\Comp 1\VS Saves\Flynk\obj\Debug\Flynk(Beta).pdb
